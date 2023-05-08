@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wait_text">one moment while we get \n your location</string>
+    <string name="summary">A Summary has been sent \n to your inbox</string>
+</resources>
